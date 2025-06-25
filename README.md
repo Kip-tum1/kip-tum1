@@ -12,10 +12,9 @@ Why Front-End? I love blending creativity with logic to deliver seamless user ex
 My Goal: To become a world-class front-end developer, contributing to innovative projects that impact lives.
 
 ![HTML](https://github.com/user-attachments/assets/6b06233e-6eb8-4fad-83d8-ac8472853bd3)
-
-![JavaScript](https://github.com/user-attachments/assets/547fb1c0-588c-423b-9bac-b1e2b2a3b38e)
-![Talwild CSS](https://github.com/user-attachments/assets/23654d18-0fa7-414b-8683-62d2a4df1c28)
-![React](https://github.com/user-attachments/assets/3cf86fde-7586-43b4-a97a-a57ae2887757)
+![JavaScript](https://github.com/user-attachments/assets/69c18867-087c-41ab-99cd-38b9b13c15d6)
+![React  Js](https://github.com/user-attachments/assets/91d5a4dc-1a20-49cc-8fbd-ae4a84ad0c46)
+![TalwinCSS](https://github.com/user-attachments/assets/f0eecac5-a314-4457-afa7-4b05e355c71a)
 
 Currently Learning: React, JavaScript (ES6+), CSS (Tailwind, SCSS), and accessibility best practices.
 
